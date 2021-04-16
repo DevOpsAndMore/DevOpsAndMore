@@ -22,3 +22,5 @@ List of themes and materials on the next several weeks
 15. Job interview. Q/A. Methodologies
 16. Deployment software and methodologies
 17. Troubleshooting(methodologies, log parsing in microservice architecture, profiling and so on)
+
+![DevOps-tools-2021](DevOps-tools-2021.png)
