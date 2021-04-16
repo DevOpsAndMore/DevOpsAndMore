@@ -1,6 +1,6 @@
-# Building tools
+# DevOpsAndMore
 
-++++++++++++++++++++ DevOpsAndMore ++++++++++++++++++++ 
+++++++++++++++++++++ Building tools ++++++++++++++++++++ 
 
 List of building tools
 1. Apache Maven
