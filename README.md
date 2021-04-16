@@ -1,5 +1,6 @@
 # DevOpsAndMore
-Hello and Welcome ;-) This repository contains many useful materials and it will be filled bi-weekly
+Hello and Welcome ;-) This repository contains many useful materials and it will be filled bi-weekly.
+Yuo can select interesting branch and checkout to it.
 
 ++++++++++++++++++++ DevOpsAndMore ++++++++++++++++++++ 
 
