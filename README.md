@@ -8,10 +8,10 @@ List of themes and materials on the next several weeks
 2. Kubernetes/openshift
 3. Dev project: rest api getter/setter, templates. Maybe we should think about writing plugin/module
 4. Building tools maven/gradle
-5. ci/cd servers
+5. Ci/cd servers
 6. Orkestration tools
 7. Message brokers
-8. aws/gcp/azure
+8. Cloud providers:aws/gcp/azure
 9. Test frameworks. Base theory, principles and best practices
 10. Agile metodologies
 11. SQL/ NoSQL databases
@@ -20,3 +20,4 @@ List of themes and materials on the next several weeks
 14. Service mesh
 15. Job interview. Q/A. Methodologies
 16. Deployment software and methodologies
+17. Troubleshooting(methodologies, log parsing in microservice architecture, profiling and so on)
