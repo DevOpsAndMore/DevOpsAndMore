@@ -10,7 +10,7 @@ List of themes and materials on the next several weeks
 3. Dev project: rest api getter/setter, templates. Maybe we should think about writing plugin/module
 4. Building tools maven/gradle
 5. Ci/cd servers
-6. Orkestration tools
+6. Orchestration tools
 7. Message brokers
 8. Cloud providers:aws/gcp/azure
 9. Test frameworks. Base theory, principles and best practices
