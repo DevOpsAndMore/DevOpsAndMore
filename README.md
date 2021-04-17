@@ -25,4 +25,5 @@ List of themes and materials on the next several weeks
 17. Troubleshooting(methodologies, log parsing in microservice architecture, profiling and so on)
 
 ![DevOps-tools-2021](DevOps-tools-2021.png)
-[top 25 devops tools that you need to know](https://www.opsera.io/blog/top-25-devops-tools-that-you-need-to-know)
+1. [Top 25 devops tools that you need to know](https://www.opsera.io/blog/top-25-devops-tools-that-you-need-to-know)
+2. [Ci/cd tools](https://www.katalon.com/resources-center/blog/ci-cd-tools)
