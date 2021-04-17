@@ -8,3 +8,4 @@ List of Monitoring systems
 ...
 
 ![Prometheus-vs-Zabbix](Prom-vs-Zabbix.jpg)
+1. [Prometheus vs zabbix](https://www.metricfire.com/blog/prometheus-vs-zabbix)
