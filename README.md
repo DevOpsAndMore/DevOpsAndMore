@@ -22,7 +22,8 @@ List of themes and materials on the next several weeks
 14. Service mesh
 15. Job interview. Q/A. Methodologies
 16. Deployment software and methodologies
-17. Troubleshooting(methodologies, log parsing in microservice architecture, profiling and so on)
+17. Code Analyzers(SonarQube,Xray)    
+18. Troubleshooting(methodologies, log parsing in microservice architecture, profiling and so on)
 
 ![DevOps-tools-2021](DevOps-tools-2021.png)
 1. [Top 25 devops tools that you need to know](https://www.opsera.io/blog/top-25-devops-tools-that-you-need-to-know)
