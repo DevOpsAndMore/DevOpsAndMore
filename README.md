@@ -6,7 +6,7 @@ Note: PLease use markdown to format pages [Markdown Cheatsheet](https://github.c
 ++++++++++++++++++++ DevOpsAndMore ++++++++++++++++++++ 
 
 List of themes and materials on the next several weeks
-1. Monitoring
+1. [Monitoring](https://github.com/sergei-voron/DevOpsAndMore/tree/Monitoring)
 2. Kubernetes/openshift
 3. Dev project: rest api getter/setter, templates. Maybe we should think about writing plugin/module
 4. Building tools maven/gradle
