@@ -10,3 +10,5 @@ List of themes and materials on the next several weeks
 5. HashiCorp Vagrant?
 
 ![Docker-Swarm-vs-Kubernetes-vs-OpenShift](Docker-Swarm-vs-Kubernetes-vs-OpenShift.png)
+
+[Kubernetes vs Mesos: Detailed Comparison](https://phoenixnap.com/blog/kubernetes-vs-mesos)
