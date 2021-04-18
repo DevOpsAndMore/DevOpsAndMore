@@ -9,3 +9,4 @@ Note: PLease use markdown to format pages [Markdown Cheatsheet](https://github.c
 2. Podman
 
 
+![docker_vs_podman](docker_vs_podman.jpeg)
