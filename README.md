@@ -8,3 +8,5 @@
 1. Kafka
 2. RabbitMQ
 3. ActiveMQ
+
+![message_brokers](message_brokers.png)
