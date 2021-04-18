@@ -2,8 +2,8 @@
 
 ++++++++++++++++++++ Message brokers ++++++++++++++++++++ 
 
-[Introdution to Streams Processing](https://medium.com/stream-processing/what-is-stream-processing-1eadfca11b97)
-[Kafka Streams](https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/)
+[Introdution to Streams Processing](https://medium.com/stream-processing/what-is-stream-processing-1eadfca11b97)  
+[Kafka Streams](https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/)  
 
 1. Kafka
 2. RabbitMQ
