@@ -9,7 +9,7 @@ List of themes and materials on the next several weeks
 1. [Monitoring](https://github.com/sergei-voron/DevOpsAndMore/tree/Monitoring)
 2. Dev project: rest api getter/setter, templates. Maybe we should think about writing plugin/module
 3. [Building tools maven/gradle](https://github.com/sergei-voron/DevOpsAndMore/tree/Building-tools)
-4. [Ci/cd servers](https://github.com/sergei-voron/DevOpsAndMore/tree/CI-CD)
+4. [CI/CD servers](https://github.com/sergei-voron/DevOpsAndMore/tree/CI-CD)
 5. [Artifact repository managers](https://github.com/sergei-voron/DevOpsAndMore/tree/Artifact-repository-managers)
 6. [Orchestration tools](https://github.com/sergei-voron/DevOpsAndMore/tree/Orchestration-tools)
 7. [Container tools:docker/podman](https://github.com/sergei-voron/DevOpsAndMore/tree/Container-tools)
