@@ -2,7 +2,7 @@
 
 ++++++++++++++++++++ Cloud providers ++++++++++++++++++++ 
 
-List of themes and materials on the next several weeks
+List of most popular cloud providers:
 1. [Google Cloud Platform(GCP)](https://cloud.google.com)
 2. [Amazon Web Services(AWS)](https://aws.amazon.com)
 3. [Microsoft Azure](https://azure.microsoft.com)
