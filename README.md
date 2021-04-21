@@ -14,7 +14,7 @@ List of themes and materials on the next several weeks
 6. [Orchestration tools](https://github.com/sergei-voron/DevOpsAndMore/tree/Orchestration-tools)
 7. [Container tools:docker/podman](https://github.com/sergei-voron/DevOpsAndMore/tree/Container-tools)
 8. [Message brokers](https://github.com/sergei-voron/DevOpsAndMore/tree/Message-brokers)
-9. Cloud providers:aws/gcp/azure
+9. [Cloud providers](https://github.com/sergei-voron/DevOpsAndMore/tree/Cloud-providers)
 10. Test frameworks. Base theory, principles and best practices
 11. Agile metodologies
 12. SQL/ NoSQL databases
