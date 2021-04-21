@@ -4,7 +4,6 @@ Yuo can select interesting branch and checkout to it.
 Note: PLease use markdown to format pages [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ++++++++++++++++++++ DevOpsAndMore ++++++++++++++++++++ 
-Universe of modern cloud native tools --> [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
 
 Universe of modern cloud native tools --> [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
 
