@@ -6,6 +6,8 @@ Note: PLease use markdown to format pages [Markdown Cheatsheet](https://github.c
 ++++++++++++++++++++ DevOpsAndMore ++++++++++++++++++++ 
 Universe of modern cloud native tools --> [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
 
+Universe of modern cloud native tools --> [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
+
 List of themes and materials on the next several weeks
 1. [Monitoring](https://github.com/sergei-voron/DevOpsAndMore/tree/Monitoring)
 2. Dev project: rest api getter/setter, templates. Maybe we should think about writing plugin/module
