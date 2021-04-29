@@ -19,3 +19,12 @@ Cloud providers solutions:
 6. AWS Kinesis
 7. GCP Pub/Sub
 8. Azure Event Hub
+
+
+9. AMQP
+11. MQTT
+12. JMS
+13. XMPP
+14. WebSocket
+
+[MQTT, XMPP, WebSockets or AMQP?](https://www.programmersought.com/article/7130222078/)
