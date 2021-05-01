@@ -11,7 +11,10 @@ List of themes and materials on the next several weeks
 1. [Source-code-management](https://github.com/sergei-voron/DevOpsAndMore/tree/SCM)
 2. [Monitoring](https://github.com/sergei-voron/DevOpsAndMore/tree/Monitoring)
 4. [Software Development](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-development)
+    <details>
+    
     Dev project: rest api getter/setter, templates. Maybe we should think about writing plugin/module
+    </details>
 3. [Building tools maven/gradle](https://github.com/sergei-voron/DevOpsAndMore/tree/Building-tools)
 4. [CI/CD servers](https://github.com/sergei-voron/DevOpsAndMore/tree/CI-CD)
 5. [Artifact repository managers](https://github.com/sergei-voron/DevOpsAndMore/tree/Artifact-repository-managers)
@@ -34,11 +37,17 @@ List of themes and materials on the next several weeks
     - V-model
     </details>
 14. [Dtabases](https://github.com/sergei-voron/DevOpsAndMore/tree/Databases)
+    <details>
+    
     - SQL 
     - NoSQL
+    </details>
 16. [Software Architecture](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-Architeture) 
+    <details>
+    
     - Miscroservices 
     - Monolith
+    </details>
 18. [Best-practices](https://github.com/sergei-voron/DevOpsAndMore/tree/Best-practices)
 19. [Service mesh](https://github.com/sergei-voron/DevOpsAndMore/tree/Service-mesh)
 20. [Job interview](https://github.com/sergei-voron/DevOpsAndMore/tree/Job-interview)
