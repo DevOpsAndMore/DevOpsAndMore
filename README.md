@@ -8,8 +8,9 @@ Note: PLease use markdown to format pages [Markdown Cheatsheet](https://github.c
 Universe of modern cloud native tools --> [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
 
 List of themes and materials on the next several weeks
-1. [Monitoring](https://github.com/sergei-voron/DevOpsAndMore/tree/Monitoring)
-2. [Software Development](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-development)
+1. [Source-code-management](https://github.com/sergei-voron/DevOpsAndMore/tree/SCM)
+2. [Monitoring](https://github.com/sergei-voron/DevOpsAndMore/tree/Monitoring)
+4. [Software Development](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-development)
     Dev project: rest api getter/setter, templates. Maybe we should think about writing plugin/module
 3. [Building tools maven/gradle](https://github.com/sergei-voron/DevOpsAndMore/tree/Building-tools)
 4. [CI/CD servers](https://github.com/sergei-voron/DevOpsAndMore/tree/CI-CD)
