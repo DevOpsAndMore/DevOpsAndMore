@@ -52,14 +52,23 @@ List of themes and materials on the next several weeks
 19. [Service mesh](https://github.com/sergei-voron/DevOpsAndMore/tree/Service-mesh)
 20. [Job interview](https://github.com/sergei-voron/DevOpsAndMore/tree/Job-interview)
 22. [Code Analyzers](https://github.com/sergei-voron/DevOpsAndMore/tree/Code-analyzers)
+    <details>
+    
     - SonarQube
     - ESLint
-    - Xray    
+    - Xray
+    </details>    
 24. [Troubleshooting](https://github.com/sergei-voron/DevOpsAndMore/tree/Troubleshooting)
+    <details>
+    
     - Methodologies 
     - Log parsing in microservice architecture
+    </details>
 25. [Performance](https://github.com/sergei-voron/DevOpsAndMore/tree/Performance)
+    <details>
+    
     - Profiling
+    </details>
 
 ![DevOps-tools-2021](DevOps-tools-2021.png)
 1. [Top 25 devops tools that you need to know](https://www.opsera.io/blog/top-25-devops-tools-that-you-need-to-know)
