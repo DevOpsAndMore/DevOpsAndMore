@@ -22,6 +22,8 @@ List of themes and materials on the next several weeks
 10. [Quality Assurance](https://github.com/sergei-voron/DevOpsAndMore/tree/QA)
     Test frameworks. Base theory, principles and best practices
 12. [SDLC](https://github.com/sergei-voron/DevOpsAndMore/tree/SDLC)
+    <details>
+    
     - Waterfall
     - Agile
     - Lean
@@ -30,6 +32,7 @@ List of themes and materials on the next several weeks
     - DevOps
     - Spiral 
     - V-model
+    </details>
 14. [Dtabases](https://github.com/sergei-voron/DevOpsAndMore/tree/Databases)
     - SQL 
     - NoSQL
