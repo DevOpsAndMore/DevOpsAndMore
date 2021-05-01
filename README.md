@@ -20,15 +20,33 @@ List of themes and materials on the next several weeks
 9. [Cloud providers](https://github.com/sergei-voron/DevOpsAndMore/tree/Cloud-providers)
 10. [Quality Assurance](https://github.com/sergei-voron/DevOpsAndMore/tree/QA)
     Test frameworks. Base theory, principles and best practices
-12. Agile metodologies
-13. SQL/ NoSQL databases
-14. Miscroservices vs monolith
-15. Design patterns and best practices
-16. Service mesh
-17. Job interview. Q/A. Methodologies
-18. Deployment software and methodologies
-19. Code Analyzers(SonarQube,Xray)    
-20. Troubleshooting(methodologies, log parsing in microservice architecture, profiling and so on)
+12. [SDLC](https://github.com/sergei-voron/DevOpsAndMore/tree/SDLC)
+    - Waterfall
+    - Agile
+    - Lean
+    - Iterative
+    - Prototyping
+    - DevOps
+    - Spiral 
+    - V-model
+14. [Dtabases](https://github.com/sergei-voron/DevOpsAndMore/tree/Databases)
+    - SQL 
+    - NoSQL
+16. [Software Architecture](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-Architeture) 
+    - Miscroservices 
+    - Monolith
+18. [Best-practices](https://github.com/sergei-voron/DevOpsAndMore/tree/Best-practices)
+19. [Service mesh](https://github.com/sergei-voron/DevOpsAndMore/tree/Service-mesh)
+20. [Job interview](https://github.com/sergei-voron/DevOpsAndMore/tree/Job-interview)
+22. [Code Analyzers](https://github.com/sergei-voron/DevOpsAndMore/tree/Code-analyzers)
+    - SonarQube
+    - ESLint
+    - Xray    
+24. [Troubleshooting](https://github.com/sergei-voron/DevOpsAndMore/tree/Troubleshooting)
+    - Methodologies 
+    - Log parsing in microservice architecture
+25. [Performance](https://github.com/sergei-voron/DevOpsAndMore/tree/Performance)
+    - Profiling
 
 ![DevOps-tools-2021](DevOps-tools-2021.png)
 1. [Top 25 devops tools that you need to know](https://www.opsera.io/blog/top-25-devops-tools-that-you-need-to-know)
