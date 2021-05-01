@@ -9,7 +9,8 @@ Universe of modern cloud native tools --> [CNCF Cloud Native Interactive Landsca
 
 List of themes and materials on the next several weeks
 1. [Monitoring](https://github.com/sergei-voron/DevOpsAndMore/tree/Monitoring)
-2. Dev project: rest api getter/setter, templates. Maybe we should think about writing plugin/module
+2. [Software Development](https://github.com/sergei-voron/DevOpsAndMore/tree/Development)
+Dev project: rest api getter/setter, templates. Maybe we should think about writing plugin/module
 3. [Building tools maven/gradle](https://github.com/sergei-voron/DevOpsAndMore/tree/Building-tools)
 4. [CI/CD servers](https://github.com/sergei-voron/DevOpsAndMore/tree/CI-CD)
 5. [Artifact repository managers](https://github.com/sergei-voron/DevOpsAndMore/tree/Artifact-repository-managers)
