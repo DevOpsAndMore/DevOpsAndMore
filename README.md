@@ -1,6 +1,5 @@
 # DevOpsAndMore
 
-++++++++++++++++++++ Software Development ++++++++++++++++++++ 
+++++++++++++++++++++ Java ++++++++++++++++++++ 
 
-List of themes and materials on the next several weeks
-1. [Python](https://github.com/sergei-voron/DevOpsAndMore/tree/Python)
+1. 
