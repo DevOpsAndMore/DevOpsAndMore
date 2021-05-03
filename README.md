@@ -1,5 +1,5 @@
 Books for beginners:
-<description>
+<details>
   
 1. A bity of Python
 
@@ -12,7 +12,7 @@ If you are interested in reading or contributing translations of this book to ot
 </desciprion>
 
 Most useful python modules for DevOps:
-<details>
+</details>
 
 1. Requests
 
