@@ -1,4 +1,8 @@
-<span style="color:blue">**Why do we need to use Python for DevOps?**</span>
+++++++++++++++++++++ Bash ++++++++++++++++++++
+
+![Python_authomation](Python_authomation.png)
+
+**Why do we need to use Python for DevOps?**
 <details>
 	
 - Python with its programming friendly and vast libraries makes automation very easy. That is why it is used in DevOps and has become the de facto language for the automation of the DevOps. 
@@ -57,7 +61,7 @@ This module allows you to send HTTP requests. Using this module, we can post or 
       DELETE
 All these methods perform particular actions like adding a comment (PUT), retrieving data (GET), or deleting a user field (DELETE).
 
-Example:  r = requests.get(“url”,auth=('username', 'passwd'))
+    Example:  r = requests.get(“url”,auth=('username', 'passwd'))
 
 In the above example, we used the request module to get the information from the URL provided. You can get information like status code, JSON data using status code() and json() methods, respectively.
 
