@@ -1,4 +1,4 @@
-++++++++++++++++++++ Bash ++++++++++++++++++++
+++++++++++++++++++++ Python ++++++++++++++++++++
 
 ![Python_authomation](Python_authomation.png)
 
