@@ -132,7 +132,7 @@ Supported Python versions are 2.6, 2.7, 3.4+ and PyPy.
         sswap(total=2097147904, used=296128512, free=1801019392, percent=14.1, sin=304193536, sout=677842944)
         >>>
 
-9. JSON
+8. JSON
 
 JSON is the syntax for storing data in the form of dictionaries and lists. Python has a built-in module named JSON. Using this module, we can parse the JSON data and even convert the other type of data into JSON format.
 
@@ -144,7 +144,7 @@ JSON is the syntax for storing data in the form of dictionaries and lists. Pytho
 
 In this example, we can observe that x is a dictionary that is holding a list containing elements. We are using the dump function to parse the data.
 
-8. XLWT
+9. XLWT
 
 This module helps to create an Excel file and store data after customizing it according to the cells. It is a good module to work with Excel files, but it takes more time when compared to the Pandas. This module allows the user to define the logic according to the requirement, like filling data only in a particular cell.
 
@@ -157,13 +157,13 @@ In the above example, we initialized an Excel workbook in a variable and started
 
 Python helps us in automating repetitive things and it offers a lot of flexibility. It has a small learning curve compared to other programming languages. However, it all depends on how much time and effort a DevOps engineer spends on aptly utilizing its different modules, methods, and frameworks to enable automation. It will be apt to say that Python is core to DevOps automation and mastering this language is necessary to enable DevOps.
 
-9. Fabric
+10. Fabric
 
 Fabric is a high level Python (2.7, 3.4+) library designed to execute shell commands remotely over SSH, yielding useful Python objects in return. It builds on top of Invoke (subprocess command execution and command-line features) and Paramiko (SSH protocol implementation), extending their APIs to complement one another and provide additional functionality.
 
 For a high level introduction, including example code, please see our main project website; or for detailed API docs, see the versioned API website.
 
-10. Fabtools
+11. Fabtools
 
 fabtools includes useful functions to help you write your Fabric files.
 
