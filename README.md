@@ -226,3 +226,12 @@ def setup():
 	
 [DevOps With Python by Real Python](https://realpython.com/learning-paths/python-devops)
 </details>
+
+**Best practices**
+<details>
+
+[Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+[PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020)
+[PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008)
+[PEP Index](https://www.python.org/dev/peps)
+</details>
