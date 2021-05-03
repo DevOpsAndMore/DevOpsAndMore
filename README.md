@@ -113,7 +113,26 @@ This is the basic module used in python. It performs ad-hoc commands on the base
 
 In the above example, ‘dir’ gives an output of the list of directories. They are many other similar methods like os.remove(), os.rename(), os.close(), etc.
 
-7. JSON
+7. PSUTIL
+
+psutil (process and system utilities) is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python. It is useful mainly for system monitoring, profiling and limiting process resources and management of running processes. It implements many functionalities offered by classic UNIX command line tools such as ps, top, iotop, lsof, netstat, ifconfig, free and others. psutil currently supports the following platforms:
+
+Linux
+Windows
+macOS
+FreeBSD, OpenBSD, NetBSD
+Sun Solaris
+AIX
+Supported Python versions are 2.6, 2.7, 3.4+ and PyPy.
+
+    Memory
+        >>> psutil.virtual_memory()
+        svmem(total=10367352832, available=6472179712, percent=37.6, used=8186245120, free=2181107712, active=4748992512, inactive=2758115328, buffers=790724608,     cached=3500347392, shared=787554304)
+        >>> psutil.swap_memory()
+        sswap(total=2097147904, used=296128512, free=1801019392, percent=14.1, sin=304193536, sout=677842944)
+        >>>
+
+9. JSON
 
 JSON is the syntax for storing data in the form of dictionaries and lists. Python has a built-in module named JSON. Using this module, we can parse the JSON data and even convert the other type of data into JSON format.
 
