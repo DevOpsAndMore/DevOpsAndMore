@@ -11,6 +11,13 @@ Read the book in your native language
 If you are interested in reading or contributing translations of this book to other human languages, please see Translations.
 </details>
 
+Books for DevOps:
+<details>
+	
+[Python for DevOps](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
+
+</details>
+
 Most useful python modules for DevOps:
 <details>
 
