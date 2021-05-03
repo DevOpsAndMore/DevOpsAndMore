@@ -1,9 +1,10 @@
 ++++++++++++++++++++ Python ++++++++++++++++++++
 
-![Code-writing-practices](Python_authomation.png)
+![Code-writing-practices](Code-writing-practices.png)
 
 **Code writing practices**
   <details>
+
   - [Codewars](http://codewars.com) - level: easy
   - [HackerRank](http://hackerrank.com) Recommended. Level: easy, middle
   - [Coderbyte](http://coderbyte.com)
