@@ -7,6 +7,8 @@ Note: PLease use markdown to format pages [Markdown Cheatsheet](https://github.c
 
 Universe of modern cloud native tools --> [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io)
 
+[Recommended Learning Path](https://github.com/sergei-voron/DevOpsAndMore/tree/Learnin-path)
+
 List of themes and materials on the next several weeks
 1. [Source-code-management](https://github.com/sergei-voron/DevOpsAndMore/tree/SCM)
 2. [Monitoring](https://github.com/sergei-voron/DevOpsAndMore/tree/Monitoring)
