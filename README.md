@@ -216,6 +216,9 @@ def setup():
     # Setup a daily cron task
     fabtools.cron.add_daily('maintenance', 'myuser', 'my_script.py')
     
+12. Re - Standard Library
+13. Zipfile - Standard Library
+    
 </details>
 
 **Learning paths and cources**
