@@ -1,6 +1,6 @@
 Why do we need to us Python for DevOps?
 <details>
-Python with its programming friendly and vast libraries makes automation very easy. That is why it is used in DevOps and has become the de facto language for the automation of the DevOps. 
+- Python with its programming friendly and vast libraries makes automation very easy. That is why it is used in DevOps and has become the de facto language for the automation of the DevOps. 
 
     - It is a great scripting language used for automation. Many tools such as Saltstack and Ansible are written in Python. 
     - It is also used for complete infrastructure automation and orchestration. To debug and code it is far ahead than Ruby. 
@@ -9,7 +9,7 @@ Python with its programming friendly and vast libraries makes automation very ea
     - Not only in DevOps, but it is also used in various applications such as Machine Learning, AI, IoT, and Data Science. 
     - Learn DevOps online that covers the principles of DevOps, tools used in DevOps, and Python Programming 
 
-Best way to use python for DevOps
+- Best way to use python for DevOps
 You can do anything in DevOps using python. The main areas are the automation of the DevOps life cycle management using Python. The CI/CD pipeline can be automated using Python. The best ways to use Python for DevOps are as follows,
 
     - Automate the DevOps life cycle management
