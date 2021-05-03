@@ -15,6 +15,7 @@ List of themes and materials on the next several weeks
 4. [Software Development](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-development)
     <details>
     
+    - [Code-writing-practices](https://github.com/DevOpsAndMore/DevOpsAndMore/blob/Code-writing-practices/README.md)
     Dev project: rest api getter/setter, templates. Maybe we should think about writing plugin/module
     </details>
 3. [Building tools maven/gradle](https://github.com/sergei-voron/DevOpsAndMore/tree/Building-tools)
@@ -53,6 +54,10 @@ List of themes and materials on the next several weeks
 18. [Best-practices](https://github.com/sergei-voron/DevOpsAndMore/tree/Best-practices)
 19. [Service mesh](https://github.com/sergei-voron/DevOpsAndMore/tree/Service-mesh)
 20. [Job interview](https://github.com/sergei-voron/DevOpsAndMore/tree/Job-interview)
+    <details>
+
+    - [Code-writing-practices](https://github.com/DevOpsAndMore/DevOpsAndMore/blob/Code-writing-practices/README.md)
+    </details>
 22. [Code Analyzers](https://github.com/sergei-voron/DevOpsAndMore/tree/Code-analyzers)
     <details>
     
