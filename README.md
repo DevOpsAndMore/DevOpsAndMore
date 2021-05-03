@@ -38,7 +38,7 @@ List of themes and materials on the next several weeks
     - Spiral 
     - V-model
     </details>
-14. [Dtabases](https://github.com/sergei-voron/DevOpsAndMore/tree/Databases)
+14. [Databases](https://github.com/sergei-voron/DevOpsAndMore/tree/Databases)
     <details>
     
     - SQL 
