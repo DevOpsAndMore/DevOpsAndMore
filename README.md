@@ -1,4 +1,4 @@
-Why do we need to us Python for DevOps?
+<span style="color:blue">*Why do we need to us Python for DevOps?*</span>
 <details>
 	
 - Python with its programming friendly and vast libraries makes automation very easy. That is why it is used in DevOps and has become the de facto language for the automation of the DevOps. 
