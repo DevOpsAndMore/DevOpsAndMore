@@ -137,6 +137,66 @@ This module helps to create an Excel file and store data after customizing it ac
 In the above example, we initialized an Excel workbook in a variable and started performing actions like adding a sheet and writing data into that sheet using that variable.
 
 Python helps us in automating repetitive things and it offers a lot of flexibility. It has a small learning curve compared to other programming languages. However, it all depends on how much time and effort a DevOps engineer spends on aptly utilizing its different modules, methods, and frameworks to enable automation. It will be apt to say that Python is core to DevOps automation and mastering this language is necessary to enable DevOps.
+
+9. Fabric
+
+Fabric is a high level Python (2.7, 3.4+) library designed to execute shell commands remotely over SSH, yielding useful Python objects in return. It builds on top of Invoke (subprocess command execution and command-line features) and Paramiko (SSH protocol implementation), extending their APIs to complement one another and provide additional functionality.
+
+For a high level introduction, including example code, please see our main project website; or for detailed API docs, see the versioned API website.
+
+10. Fabtools
+
+fabtools includes useful functions to help you write your Fabric files.
+
+fabtools makes it easier to manage system users, packages, databases, etc.
+
+fabtools includes a number of low-level actions, as well as a higher level interface called fabtools.require.
+
+Using fabtools.require allows you to use a more declarative style, similar to Chef or Puppet.
+
+    example fabfile.py using fabtools
+
+from fabric.api import *
+from fabtools import require
+import fabtools
+
+@task
+def setup():
+
+    # Require some Debian/Ubuntu packages
+    require.deb.packages([
+        'imagemagick',
+        'libxml2-dev',
+    ])
+
+    # Require a Python package
+    with fabtools.python.virtualenv('/home/myuser/env'):
+        require.python.package('pyramid')
+
+    # Require an email server
+    require.postfix.server('example.com')
+
+    # Require a PostgreSQL server
+    require.postgres.server()
+    require.postgres.user('myuser', 's3cr3tp4ssw0rd')
+    require.postgres.database('myappsdb', 'myuser')
+
+    # Require a supervisor process for our app
+    require.supervisor.process('myapp',
+        command='/home/myuser/env/bin/gunicorn_paster /home/myuser/env/myapp/production.ini',
+        directory='/home/myuser/env/myapp',
+        user='myuser'
+        )
+
+    # Require an nginx server proxying to our app
+    require.nginx.proxied_site('example.com',
+        docroot='/home/myuser/env/myapp/myapp/public',
+        proxy_url='http://127.0.0.1:8888'
+        )
+
+    # Setup a daily cron task
+    fabtools.cron.add_daily('maintenance', 'myuser', 'my_script.py')
+    
 </details>
 
 **Learning paths and cources**
