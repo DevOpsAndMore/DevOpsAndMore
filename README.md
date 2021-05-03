@@ -134,3 +134,9 @@ In the above example, we initialized an Excel workbook in a variable and started
 
 Python helps us in automating repetitive things and it offers a lot of flexibility. It has a small learning curve compared to other programming languages. However, it all depends on how much time and effort a DevOps engineer spends on aptly utilizing its different modules, methods, and frameworks to enable automation. It will be apt to say that Python is core to DevOps automation and mastering this language is necessary to enable DevOps.
 </details>
+
+**Learning paths and cources**
+<details>
+	
+[DevOps With Python by Real Python](https://realpython.com/learning-paths/python-devops)
+</details>
