@@ -1,3 +1,28 @@
+Why do we need to us Python for DevOps?
+<details>
+Python with its programming friendly and vast libraries makes automation very easy. That is why it is used in DevOps and has become the de facto language for the automation of the DevOps. 
+
+    - It is a great scripting language used for automation. Many tools such as Saltstack and Ansible are written in Python. 
+    - It is also used for complete infrastructure automation and orchestration. To debug and code it is far ahead than Ruby. 
+    - It is a very agile programming language and it takes a direct approach to program and simplicity is invaluable to DevOps. 
+    - Its vast libraries for DevOps toolsets are preferred when compared to others because of its ease of access and flexibility. 
+    - Not only in DevOps, but it is also used in various applications such as Machine Learning, AI, IoT, and Data Science. 
+    - Learn DevOps online that covers the principles of DevOps, tools used in DevOps, and Python Programming 
+
+Best way to use python for DevOps
+You can do anything in DevOps using python. The main areas are the automation of the DevOps life cycle management using Python. The CI/CD pipeline can be automated using Python. The best ways to use Python for DevOps are as follows,
+
+    - Automate the DevOps life cycle management
+    - Automate the infrastructure deployment and configuration management
+    - Use Python to modify, configure and automate the tools used in DevOps
+    - Use Python for the CI/CD pipeline automation
+    - Python as a script can be used for automating the small day to day checking and monitoring tasks 
+    - Deploy applications automatically from Dev to QA to Prod environment
+    - Ensure that DevOps applications are platform-independent by smart and simple programming using Python.
+    - Automate the operational tasks of the sysadmin which is repetitive and periodic.
+    - Manage and control the infrastructures using Python programming and using tools
+</details>
+
 Books for beginners:
 <details>
   
