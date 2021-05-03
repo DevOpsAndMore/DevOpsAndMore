@@ -29,24 +29,24 @@ You can do anything in DevOps using python. The main areas are the automation of
 </details>
 
 Books for beginners:
-<details>
+  <details>
   
 1. A bite of Python
 
-- Visit https://github.com/swaroopch/byte-of-python/releases/latest to download a PDF file (best for desktop reading) or an EPUB file (best for devices such as mobile, tablet, ebook readers).
+  - Visit https://github.com/swaroopch/byte-of-python/releases/latest to download a PDF file (best for desktop reading) or an EPUB file (best for devices such as mobile, tablet, ebook readers).
 
-- Visit https://github.com/swaroopch/byte-of-python for the raw content (for suggesting corrections, changes, translating, etc.)
+  - Visit https://github.com/swaroopch/byte-of-python for the raw content (for suggesting corrections, changes, translating, etc.)
 
-Read the book in your native language
-If you are interested in reading or contributing translations of this book to other human languages, please see Translations.
-</details>
+  Read the book in your native language
+  If you are interested in reading or contributing translations of this book to other human languages, please see Translations.
+  </details>
 
 Books for DevOps:
-<details>
+  <details>
 	
-[Python for DevOps](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
+  - [Python for DevOps](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
 
-</details>
+  </details>
 
 Most useful python modules for DevOps:
 <details>
@@ -222,23 +222,23 @@ def setup():
 </details>
 
 **Learning paths and cources**
-<details>
+  <details>
 	
-[DevOps With Python by Real Python](https://realpython.com/learning-paths/python-devops)
-</details>
+  - [DevOps With Python by Real Python](https://realpython.com/learning-paths/python-devops)
+  </details>
 
 **Best practices**
-<details>
+  <details>
 
-[Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-[PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020)
-[PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008)
-[PEP Index](https://www.python.org/dev/peps)
-</details>
+  - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+  - [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020)
+  - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008)
+  - [PEP Index](https://www.python.org/dev/peps)
+  </details>
 
 **Code writing practices**
-<details>
+  <details>
 
-[hackerrank](https://www.hackerrank.com/domains/python)
-</details>
+  - [hackerrank](https://www.hackerrank.com/domains/python)
+  </details>
 
