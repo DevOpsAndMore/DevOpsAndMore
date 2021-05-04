@@ -9,6 +9,7 @@
   - Test (Testing and Debugging)
   - Use (Operation or Deployment)
   - Maintain (Refinement) 
+
 Books:
   - [97 Things Every Software Architect Should Know](https://www.oreilly.com/library/view/97-things-every/9780596800611)
 
