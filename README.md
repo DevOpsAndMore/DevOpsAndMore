@@ -8,7 +8,7 @@
   - Do It (Implementation)
   - Test (Testing and Debugging)
   - Use (Operation or Deployment)
-  - Maintain (Refinement
+  - Maintain (Refinement)
 
 2. **[Bash](https://github.com/sergei-voron/DevOpsAndMore/tree/Bash)**
 3. **[Python](https://github.com/sergei-voron/DevOpsAndMore/tree/Python)**
