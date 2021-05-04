@@ -10,7 +10,7 @@
   - Use (Operation or Deployment)
   - Maintain (Refinement
 
-2. [Bash](https://github.com/sergei-voron/DevOpsAndMore/tree/Bash)
-3. [Python](https://github.com/sergei-voron/DevOpsAndMore/tree/Python)
-4. [Go](https://github.com/sergei-voron/DevOpsAndMore/tree/Go)
-5. [Java](https://github.com/sergei-voron/DevOpsAndMore/tree/Java)
+2. **[Bash](https://github.com/sergei-voron/DevOpsAndMore/tree/Bash)**
+3. **[Python](https://github.com/sergei-voron/DevOpsAndMore/tree/Python)**
+4. **[Go](https://github.com/sergei-voron/DevOpsAndMore/tree/Go)**
+5. **[Java](https://github.com/sergei-voron/DevOpsAndMore/tree/Java)**
