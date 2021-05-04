@@ -2,7 +2,7 @@
 
 ++++++++++++++++++++ Software Development ++++++++++++++++++++ 
 
-1. The Software Development Process phases:
+1. **The Software Development Process phases:**
   <details>
 
   - What (Analysis)
