@@ -2,7 +2,6 @@
 
 ++++++++++++++++++++ Software Development ++++++++++++++++++++ 
 
-List of themes and materials on the next several weeks
 1. The Software Development Process phases:
   <details>
 
@@ -13,6 +12,7 @@ List of themes and materials on the next several weeks
   Use (Operation or Deployment)
   Maintain (Refinement
   </details>
+
 2. [Bash](https://github.com/sergei-voron/DevOpsAndMore/tree/Bash)
 3. [Python](https://github.com/sergei-voron/DevOpsAndMore/tree/Python)
 4. [Go](https://github.com/sergei-voron/DevOpsAndMore/tree/Go)
