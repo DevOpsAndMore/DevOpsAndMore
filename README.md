@@ -227,6 +227,10 @@ def setup():
   - [DevOps With Python by Real Python](https://realpython.com/learning-paths/python-devops)
   </details>
 
+**Videos**
+  - [Introduction to Python](https://learning.oreilly.com/videos/introduction-to-python/9781491904794) by Jessica McKellar
+  - [Intermediate Python Programming](https://learning.oreilly.com/videos/intermediate-python-programming/9781491954935/) by Jessica McKellar
+
 **Best practices**
   <details>
 
