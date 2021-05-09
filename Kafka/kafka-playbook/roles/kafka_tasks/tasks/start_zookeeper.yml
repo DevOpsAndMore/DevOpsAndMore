@@ -1,0 +1,5 @@
+---
+
+- name: "Start Zookeeper cluster"
+  shell: |
+    {{ kafka_bin_dir }}/zookeeper-server-start.sh -daemon {{ kafka_config_dir }}/{{ cluster_name }}-zookeeper.properties

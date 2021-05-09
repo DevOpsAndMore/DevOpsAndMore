@@ -1,0 +1,48 @@
+- name: "Create directories"
+  file:    
+    path: "{{ item }}"
+    state: directory
+  with_items:
+    - "{{ kafka_home }}"
+
+- name: "Get {{ kafka_dist_name }} Kafka distro"
+  get_url:
+    url: "{{ kafka_distr_url }}"
+    dest: "{{ kafka_home }}"
+
+- name: "Extract Kafka {{ kafka_dist_name }}.tgz archive"
+  unarchive:
+    src: "{{ kafka_home }}/{{ kafka_dist_name }}.tgz"
+    dest: "{{ kafka_home }}"
+    remote_src: yes 
+
+- name: "Create a symlink to current version"
+  file:
+    state: link
+    src: "{{ kafka_home }}/{{ kafka_dist_name }}"
+    dest: "{{ kafka_home }}/current"
+
+- name: "Create Zookeeper & Kafka data directories"
+  file:
+    state: directory
+    path: "{{ item }}"
+  with_items:
+    - "{{ zookeeper_data_dir }}"
+    - "{{ kafka_data_dir }}"
+
+- name: "Deploy new Kafka config"
+  template:
+    src: "server.properties.j2"
+    dest: "{{ kafka_home }}/current/config/{{ cluster_name }}-server.properties"
+
+  
+- name: "Deploy new Zookeeper config"
+  template:
+    src: "zookeeper.properties.j2"
+    dest: "{{ kafka_home }}/current/config/{{ cluster_name }}-zookeeper.properties"
+
+- name: "Deploy zookeeper myid file"
+  template:
+    src: "myid.j2"
+    dest: "{{ zookeeper_data_dir }}/myid"
+  

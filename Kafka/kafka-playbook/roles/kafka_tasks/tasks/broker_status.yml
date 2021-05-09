@@ -1,0 +1,11 @@
+---
+
+- name: "Get Broker PID"
+  shell: |
+    ps -ef | grep {{ cluster_name }}-server.properties | grep -v grep | awk '{ print $2 }'
+  register: br_pid
+
+- name: "List Broker PID"
+  debug:
+    msg: "Broker node is {% if (br_pid.stdout_lines | length) != 0 %}running with PID: {{ br_pid.stdout_lines }} {% else %}not running{% endif %}"
+

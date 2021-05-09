@@ -1,0 +1,10 @@
+- name: "Include start_zookeeper.yml"
+  include_tasks: "stop_cluster.yml"
+
+- name: "Remove cluster directory"
+  file:    
+    path: "{{ item }}"
+    state: directory
+  with_items:
+    - "{{ kafka_home }}"
+

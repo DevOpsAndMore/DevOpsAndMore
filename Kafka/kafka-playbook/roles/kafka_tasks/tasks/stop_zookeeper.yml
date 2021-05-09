@@ -1,0 +1,32 @@
+---
+
+- name: "Get Zookeeper PID"
+  shell: |
+    ps -ef | grep {{ cluster_name }}-zookeeper.properties | grep -v grep | awk '{ print $2 }'
+  register: zk_pid
+
+- name: "List Zookeeper PID"
+  debug:
+    msg: "ZK PID: {{ zk_pid.stdout_lines }}"
+
+- name: "Terminate Zookeeper PID with SIGTERM"
+  shell: |
+    kill {{ zk_pid.stdout }}
+  when: 
+    - (zk_pid.stdout_lines | length) != 0
+    - (force_kill | bool) == false
+  ignore_errors: yes
+
+- name: "Terminate Zookeeper PID with SIGKILL"
+  shell: |
+    kill {{ zk_pid.stdout }}
+  when: 
+    - (zk_pid.stdout_lines | length) != 0
+    - (force_kill | bool) == true
+  ignore_errors: yes
+
+- wait_for:
+    path: "/proc/{{ item }}/status"
+    state: absent
+  with_items: "{{ zk_pid.stdout_lines }}"
+  ignore_errors: yes

@@ -1,0 +1,12 @@
+---
+
+- name:
+  hosts: kafka-hosts
+  remote_user: "kafka"
+
+  tasks:
+    - name: "Include role kafka_tasks"
+      include_role: 
+        name: "kafka_tasks"
+        tasks_from: "{{ operation }}"
+   

@@ -1,0 +1,32 @@
+---
+
+- name: "Get Broker PID"
+  shell: |
+    ps -ef | grep {{ cluster_name }}-server.properties | grep -v grep | awk '{ print $2 }'
+  register: br_pid
+
+- name: "List Kafka PID"
+  debug:
+    msg: "Broker PID: {{ br_pid.stdout_lines }}"
+
+- name: "Terminate Broker PID with SIGTERM"
+  shell: |
+    kill {{ br_pid.stdout }}
+  when: 
+    - (br_pid.stdout_lines | length) != 0
+    - (force_kill | bool) == false
+  ignore_errors: yes
+
+- name: "Terminate Broker PID with SIGKILL"
+  shell: |
+    kill -9 {{ br_pid.stdout }}
+  when:
+    - (br_pid.stdout_lines | length) != 0
+    - (force_kill | bool) == true
+  ignore_errors: yes
+
+- wait_for:
+    path: "/proc/{{ item }}/status"
+    state: absent
+  with_items: "{{ br_pid.stdout_lines }}"
+  ignore_errors: yes

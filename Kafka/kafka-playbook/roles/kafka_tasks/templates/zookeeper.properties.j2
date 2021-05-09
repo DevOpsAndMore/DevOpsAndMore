@@ -1,0 +1,15 @@
+dataDir={{ zookeeper_data_dir }}
+clientPort={{ zk_client_port }}
+maxClientCnxns=0
+admin.enableServer=false
+
+tickTime=2000
+
+initLimit=5
+
+syncLimit=2
+
+{% for host in zookeeper_hosts %}
+server.{{ zookeeper_hosts[host].zk_id }}={{ host }}:{{ zk_peer_port }}:{{ zk_leader_port }}
+{% endfor %}
+

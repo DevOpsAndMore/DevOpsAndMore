@@ -1,0 +1,9 @@
+user_name: kafka
+
+cluster_name: "demo"
+
+kafka_home: "/home/{{ user_name }}/kafka-{{ cluster_name }}"
+
+kafka_distr_url: "https://apache-mirror.rbc.ru/pub/apache/kafka/2.8.0/kafka_2.12-2.8.0.tgz"
+
+

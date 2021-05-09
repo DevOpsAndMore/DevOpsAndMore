@@ -1,0 +1,4 @@
+- name: "Install java"
+  yum:
+    name: "java-11-openjdk"
+    state: "latest"

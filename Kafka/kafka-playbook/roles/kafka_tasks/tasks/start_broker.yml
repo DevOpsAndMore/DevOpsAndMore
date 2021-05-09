@@ -1,0 +1,5 @@
+---
+
+- name: "Start Kafka cluster"
+  shell: |
+    {{ kafka_bin_dir }}/kafka-server-start.sh -daemon {{ kafka_config_dir }}/{{ cluster_name }}-server.properties

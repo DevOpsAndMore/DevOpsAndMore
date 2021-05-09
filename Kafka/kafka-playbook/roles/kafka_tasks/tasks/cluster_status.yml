@@ -1,0 +1,7 @@
+- name: "Include zookeeper_status.yml"
+  include_tasks: "zookeeper_status.yml"
+
+- name: "Include broker_status.yml"
+  include_tasks: "broker_status.yml"
+
+

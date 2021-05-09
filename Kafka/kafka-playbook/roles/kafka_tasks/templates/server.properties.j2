@@ -1,0 +1,7 @@
+broker.id={{ broker_hosts[inventory_hostname].br_id }}
+
+log.dirs={{ kafka_data_dir }}
+
+listeners = PLAINTEXT://{{ inventory_hostname }}:{{ broker_port }}
+
+zookeeper.connect={% for host in zookeeper_hosts -%}{{ host }}:{{ zk_client_port }},{%- endfor %}

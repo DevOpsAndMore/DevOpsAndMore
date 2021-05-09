@@ -1,0 +1,11 @@
+---
+
+- name: "Get Zookeeper PID"
+  shell: |
+    ps -ef | grep {{ cluster_name }}-zookeeper.properties | grep -v grep | awk '{ print $2 }'
+  register: zk_pid
+
+- name: "List Zookeeper PID"
+  debug:
+    msg: "Zookeeper node is {% if (zk_pid.stdout_lines | length) != 0 %}running with PID: {{ zk_pid.stdout_lines }} {% else %}not running {% endif %}"
+
