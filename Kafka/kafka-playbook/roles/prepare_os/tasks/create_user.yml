@@ -1,8 +1,0 @@
-- name:
-  user:
-    name: "{{ user_name }}"
-    groups: "wheel"
-    append: yes
-    shell: "/bin/bash"
-    home: "/home/{{ user_name }}"
- 
