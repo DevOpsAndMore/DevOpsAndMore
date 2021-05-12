@@ -9,7 +9,7 @@ kafka-playbook/roles/kafka_tasks/vars/main.yml
 ## How to run
 
 ```bash
-$ ansible-playbook -i kafka-hosts -e "operation=cluster_status" kafka_tasks.yml
+$ ansible-playbook -i kafka-hosts -e "operation={{ cluster_operation }}" kafka_tasks.yml
 ```
 ## Available operations
 
