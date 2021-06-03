@@ -76,6 +76,16 @@ List of themes and materials on the next several weeks
     
     - Profiling
     </details>
+26. Definition of Skills Proficiency
+    <details>
+    
+    - **Novice** (You have a common knowledge or an understanding of basic techniques and concepts)
+    - **Developing** (You have the level of experience gained in a classroom and/or experimental scenarios or as a trainee on-the-job. You are expected to need help when performing this skill)
+    - **Intermediate** (You are able to successfully complete tasks in this competency as Help from someone who is advanced/expert may be required from time to time, but you can usually perform the skill independently)
+    - **Advanced** (You can perform the actions associated with this skill without assistance. You are certainly recognized within your immediate organization as "a person to ask" when difficult questions arise regarding this skill)
+    - **Expert** (You are known as an expert in this area. You can provide guidance, troubleshoot, and answer questions related to this area of expertise and the field where the skill is used)
+    - **Distinguished** (You are known organization-wide as a recognized expert in this area. You are sought out to provide guidance to employees with basic to expert knowledge in this area)
+    </details>
 
 ![DevOps-tools-2021](DevOps-tools-2021.png)
 1. [Top 25 devops tools that you need to know](https://www.opsera.io/blog/top-25-devops-tools-that-you-need-to-know)
