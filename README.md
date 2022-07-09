@@ -86,6 +86,9 @@ List of themes and materials on the next several weeks
     - **Expert** (You are known as an expert in this area. You can provide guidance, troubleshoot, and answer questions related to this area of expertise and the field where the skill is used)
     - **Distinguished** (You are known organization-wide as a recognized expert in this area. You are sought out to provide guidance to employees with basic to expert knowledge in this area)
     </details>
+27. [Best-practices](https://github.com/sergei-voron/DevOpsAndMore/tree/Release-management)
+
+    - [Semantic versioning](https://semver.org/)
 
 ![DevOps-tools-2021](DevOps-tools-2021.png)
 1. [Top 25 devops tools that you need to know](https://www.opsera.io/blog/top-25-devops-tools-that-you-need-to-know)
