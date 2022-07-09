@@ -65,18 +65,18 @@ List of themes and materials on the next several weeks
     - ESLint
     - Xray
     </details>    
-24. [Troubleshooting](https://github.com/sergei-voron/DevOpsAndMore/tree/Troubleshooting)
+23. [Troubleshooting](https://github.com/sergei-voron/DevOpsAndMore/tree/Troubleshooting)
     <details>
     
     - Methodologies 
     - Log parsing in microservice architecture
     </details>
-25. [Performance](https://github.com/sergei-voron/DevOpsAndMore/tree/Performance)
+24. [Performance](https://github.com/sergei-voron/DevOpsAndMore/tree/Performance)
     <details>
     
     - Profiling
     </details>
-26. Definition of Skills Proficiency
+25. Definition of Skills Proficiency
     <details>
     
     - **Novice** (You have a common knowledge or an understanding of basic techniques and concepts)
@@ -86,9 +86,11 @@ List of themes and materials on the next several weeks
     - **Expert** (You are known as an expert in this area. You can provide guidance, troubleshoot, and answer questions related to this area of expertise and the field where the skill is used)
     - **Distinguished** (You are known organization-wide as a recognized expert in this area. You are sought out to provide guidance to employees with basic to expert knowledge in this area)
     </details>
-27. [Best-practices](https://github.com/sergei-voron/DevOpsAndMore/tree/Release-management)
+26. [Best-practices](https://github.com/sergei-voron/DevOpsAndMore/tree/Release-management)
+    <details>
 
     - [Semantic versioning](https://semver.org/)
+    </details>
 
 ![DevOps-tools-2021](DevOps-tools-2021.png)
 1. [Top 25 devops tools that you need to know](https://www.opsera.io/blog/top-25-devops-tools-that-you-need-to-know)
