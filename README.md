@@ -12,20 +12,20 @@ Universe of modern cloud native tools --> [CNCF Cloud Native Interactive Landsca
 List of themes and materials on the next several weeks
 1. [Source-code-management](https://github.com/sergei-voron/DevOpsAndMore/tree/SCM)
 2. [Monitoring](https://github.com/sergei-voron/DevOpsAndMore/tree/Monitoring)
-4. [Software Development](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-development)
+3. [Software Development](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-development)
     <details>
     
     - [Code-writing-practices](https://github.com/DevOpsAndMore/DevOpsAndMore/blob/Code-writing-practices/README.md)
     Dev project: rest api getter/setter, templates. Maybe we should think about writing plugin/module
     </details>
-3. [Building tools maven/gradle](https://github.com/sergei-voron/DevOpsAndMore/tree/Building-tools)
-4. [CI/CD servers](https://github.com/sergei-voron/DevOpsAndMore/tree/CI-CD)
-5. [Artifact repository managers](https://github.com/sergei-voron/DevOpsAndMore/tree/Artifact-repository-managers)
-6. [Orchestration tools](https://github.com/sergei-voron/DevOpsAndMore/tree/Orchestration-tools)
-7. [Container tools:docker/podman](https://github.com/sergei-voron/DevOpsAndMore/tree/Container-tools)
-8. [Message brokers](https://github.com/sergei-voron/DevOpsAndMore/tree/Message-brokers)
-9. [Cloud providers](https://github.com/sergei-voron/DevOpsAndMore/tree/Cloud-providers)
-10. [Quality Assurance](https://github.com/sergei-voron/DevOpsAndMore/tree/QA)
+4. [Building tools maven/gradle](https://github.com/sergei-voron/DevOpsAndMore/tree/Building-tools)
+5. [CI/CD servers](https://github.com/sergei-voron/DevOpsAndMore/tree/CI-CD)
+6. [Artifact repository managers](https://github.com/sergei-voron/DevOpsAndMore/tree/Artifact-repository-managers)
+7. [Orchestration tools](https://github.com/sergei-voron/DevOpsAndMore/tree/Orchestration-tools)
+8. [Container tools:docker/podman](https://github.com/sergei-voron/DevOpsAndMore/tree/Container-tools)
+9. [Message brokers](https://github.com/sergei-voron/DevOpsAndMore/tree/Message-brokers)
+10. [Cloud providers](https://github.com/sergei-voron/DevOpsAndMore/tree/Cloud-providers)
+11. [Quality Assurance](https://github.com/sergei-voron/DevOpsAndMore/tree/QA)
     Test frameworks. Base theory, principles and best practices
 12. [SDLC](https://github.com/sergei-voron/DevOpsAndMore/tree/SDLC)
     <details>
@@ -39,44 +39,46 @@ List of themes and materials on the next several weeks
     - Spiral 
     - V-model
     </details>
-14. [Databases](https://github.com/sergei-voron/DevOpsAndMore/tree/Databases)
+13. [Databases](https://github.com/sergei-voron/DevOpsAndMore/tree/Databases)
     <details>
     
     - SQL 
     - NoSQL
     </details>
-16. [Software Architecture](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-Architeture) 
+14. [Software Architecture](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-Architeture) 
     <details>
     
     - Miscroservices 
     - Monolith
     </details>
-18. [Best-practices](https://github.com/sergei-voron/DevOpsAndMore/tree/Best-practices)
-19. [Service mesh](https://github.com/sergei-voron/DevOpsAndMore/tree/Service-mesh)
-20. [Job interview](https://github.com/sergei-voron/DevOpsAndMore/tree/Job-interview)
+15. [Best-practices](https://github.com/sergei-voron/DevOpsAndMore/tree/Best-practices)
+    <details>
+    </details>
+16. [Service mesh](https://github.com/sergei-voron/DevOpsAndMore/tree/Service-mesh)
+17. [Job interview](https://github.com/sergei-voron/DevOpsAndMore/tree/Job-interview)
     <details>
 
     - [Code-writing-practices](https://github.com/DevOpsAndMore/DevOpsAndMore/blob/Code-writing-practices/README.md)
     </details>
-22. [Code Analyzers](https://github.com/sergei-voron/DevOpsAndMore/tree/Code-analyzers)
+18. [Code Analyzers](https://github.com/sergei-voron/DevOpsAndMore/tree/Code-analyzers)
     <details>
     
     - SonarQube
     - ESLint
     - Xray
     </details>    
-23. [Troubleshooting](https://github.com/sergei-voron/DevOpsAndMore/tree/Troubleshooting)
+19. [Troubleshooting](https://github.com/sergei-voron/DevOpsAndMore/tree/Troubleshooting)
     <details>
     
     - Methodologies 
     - Log parsing in microservice architecture
     </details>
-24. [Performance](https://github.com/sergei-voron/DevOpsAndMore/tree/Performance)
+20. [Performance](https://github.com/sergei-voron/DevOpsAndMore/tree/Performance)
     <details>
     
     - Profiling
     </details>
-25. Definition of Skills Proficiency
+21. Definition of Skills Proficiency
     <details>
     
     - **Novice** (You have a common knowledge or an understanding of basic techniques and concepts)
@@ -86,12 +88,13 @@ List of themes and materials on the next several weeks
     - **Expert** (You are known as an expert in this area. You can provide guidance, troubleshoot, and answer questions related to this area of expertise and the field where the skill is used)
     - **Distinguished** (You are known organization-wide as a recognized expert in this area. You are sought out to provide guidance to employees with basic to expert knowledge in this area)
     </details>
-26. [Best-practices](https://github.com/sergei-voron/DevOpsAndMore/tree/Release-management)
+22. [Best-practices](https://github.com/sergei-voron/DevOpsAndMore/tree/Release-management)
     <details>
     </details>
 
-27. [Versioning] 
+23. [Versioning](https://github.com/sergei-voron/DevOpsAndMore/tree/Versioning)
     <details>
+
     - **Semantic versioning**  - https://semver.org/
     </details>
 
