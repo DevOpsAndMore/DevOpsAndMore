@@ -88,8 +88,11 @@ List of themes and materials on the next several weeks
     </details>
 26. [Best-practices](https://github.com/sergei-voron/DevOpsAndMore/tree/Release-management)
     <details>
+    </details>
 
-    - Semantic versioning  - https://semver.org/
+27. [Versioning] 
+    <details>
+    - **Semantic versioning**  - https://semver.org/
     </details>
 
 ![DevOps-tools-2021](DevOps-tools-2021.png)
