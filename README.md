@@ -45,7 +45,7 @@ List of themes and materials on the next several weeks
     - SQL 
     - NoSQL
     </details>
-14. [Software Architecture](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-Architeture) 
+14. [Software Architecture](https://github.com/sergei-voron/DevOpsAndMore/tree/Software-architecture) 
     <details>
     
     - Miscroservices 
